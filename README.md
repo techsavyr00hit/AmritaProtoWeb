@@ -2,15 +2,13 @@
 ### *A fun, structured web prototype for Amrita University*
 
 <p align="center">
-  <img src="media/logos/amrita-logo.png" alt="Amrita University Logo" width="140"/>
+  <img src="media/logos/amrita.jpg" alt="Amrita University Logo" width="140"/>
 </p>
 
 <p align="center">
   <strong>Explore • Navigate • Prototype</strong><br/>
   A clean and playful attempt at structuring a university website 🌱
 </p>
-
----
 
 ## ✨ What is Amrita ProtoWeb?
 
@@ -22,8 +20,6 @@ This project is built mainly to:
 - Experiment with UI ideas
 - Have fun while building something meaningful 😄
 
----
-
 ## 🧠 Concept
 
 The idea is simple:
@@ -34,8 +30,6 @@ Each level has its own page and folder, making the structure easy to understand,
 
 Think of this as a **map of Amrita University**, but on the web 🌍
 
----
-
 ## 🧭 How Navigation Works
 
 - The **main page** acts as the university entry point
@@ -44,20 +38,13 @@ Think of this as a **map of Amrita University**, but on the web 🌍
   - Schools available within each campus
 - Every page is connected logically to reflect real-world structure
 
----
-
 ## 🖼️ Media & Assets
-
-All images, logos, and visual assets are stored in a central **`media`** folder.
 
 This includes:
 - University logos
 - Campus images
 - Icons and illustrations
 
-📁 Centralizing media keeps things clean and avoids duplication.
-
----
 
 ## 🎨 Style & Feel
 
@@ -67,17 +54,13 @@ This includes:
 - Designed as a **prototype**, not a production site
 - A mix of academic + fun vibes 
 
----
-
 ## 🚀 Why This Project?
 
 This project is meant to be:
 - A **learning playground** for web development
 - A **prototype** for understanding large website structures
 - A **base** that can later grow into something bigger
-- A reminder that learning can be fun 😉
-
----
+- A reminder that learning can be fun 
 
 ## 🔮 Ideas for the Future
 
@@ -89,9 +72,6 @@ Some cool directions this could go in:
 - Conversion to a framework like React or Vue
 - Accessibility improvements
 
-No pressure — just possibilities 🚀
-
----
 
 ## 🤝 Want to Join or Contribute?
 
@@ -106,4 +86,3 @@ If you’re interested in:
 👉 **Feel free to fork, clone, or contribute!**  
 Ideas, suggestions, and improvements are always welcome.
 
-Let’s build and learn together 💙
