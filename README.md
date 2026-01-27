@@ -2,7 +2,7 @@
 ### *A fun, structured web prototype for Amrita University*
 
 <p align="center">
-  <img src="media/logos/amrita.jpg" alt="Amrita University Logo" width="140"/>
+  <img src="media/lamrita.jpg" alt="Amrita University Logo" width="140"/>
 </p>
 
 <p align="center">
