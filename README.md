@@ -1,14 +1,3 @@
-# 🌐 Amrita ProtoWeb  
-### *A fun, structured web prototype for Amrita University*
-
-<p align="center">
-  <img src="media/lamrita.jpg" alt="Amrita University Logo" width="140"/>
-</p>
-
-<p align="center">
-  <strong>Explore • Navigate • Prototype</strong><br/>
-  A clean and playful attempt at structuring a university website 🌱
-</p>
 
 ## ✨ What is Amrita ProtoWeb?
 
